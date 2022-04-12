@@ -1,0 +1,49 @@
+html {
+     font-size: 1.8rem;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background: linear-gradient(#3D7EAA, );
+     height: 100vh;
+}
+
+header{
+     margin-bottom: 30px;
+     text-align: center;
+}
+
+
+.section-container{
+     display: flex;
+     flex-direction: column;
+     padding-left: 30vw;
+     padding-right: 30vw;
+}
+
+#right-column{
+     list-style-type: none;
+     text-align: right;
+     font-size: .8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
